@@ -1,0 +1,19 @@
+{
+  "consultants": [
+    {
+      "code": "PBDMK001",
+      "companyName": "Curve Plus",
+      "address": "Kot Ise Khan Road Dharmkot",
+      "email": "contact@mapleimmigration.ca",
+      "phone": "+91 98553-69554"
+    },
+    {
+      "code": "XYZAB002",
+      "companyName": "Canada Pathway Consultants",
+      "address": "456 Granville Street, Vancouver, BC V6C 1V4, Canada",
+      "email": "info@canadapathway.com",
+      "phone": "+1-604-555-5678"
+    }
+    // Add more consultants as needed
+  ]
+}
